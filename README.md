@@ -47,7 +47,7 @@ Web application
 
 Responsive design
 
-<img src=".github/localhost_3000_moto_g4.png" alt="Responsive design">
+<img src=".github/localhost_3000_moto_g4.png" width="350" alt="Responsive design">
 
 ## Learn More
 
