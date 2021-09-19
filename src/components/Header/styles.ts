@@ -8,10 +8,14 @@ export const Content = styled.div`
   max-width: 1120px;
   margin: 0 auto;
 
-  padding: 2rem 1rem 12rem;
+  padding: 2rem 1rem 8rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  img {
+    margin-right: 1rem;
+  }
 
   button {
     font-size: 1rem;

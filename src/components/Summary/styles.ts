@@ -1,12 +1,13 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 2rem;
-  margin-top: -10rem;
+  margin-top: -7rem;
 
   div {
+    flex: 1;
     background: var(--shape);
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
